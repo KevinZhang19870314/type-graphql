@@ -1,6 +1,8 @@
 ---
 title: Examples
 sidebar_label: List of examples
+id: version-1.0.0-rc.3-examples
+original_id: examples
 ---
 
 On the [GitHub repository](https://github.com/MichalLytek/type-graphql) there are a few simple examples of how to use different TypeGraphQL features and how well they integrate with 3rd party libraries.
@@ -40,7 +42,6 @@ All examples have an `examples.gql` file with sample queries/mutations/subscript
 - [Apollo federation](https://github.com/MichalLytek/type-graphql/tree/master/examples/apollo-federation)
 - [Apollo Engine (Apollo Cache Control) \*\*](https://github.com/MichalLytek/type-graphql/tree/master/examples/apollo-engine)
 - [Apollo client state](https://github.com/MichalLytek/type-graphql/tree/master/examples/apollo-client)
-- [GraphQL Modules](https://github.com/MichalLytek/type-graphql/tree/master/examples/graphql-modules)
 
 _\* Note that we need to edit the TypeORM example's `index.ts` with the credentials of our local database_
 
